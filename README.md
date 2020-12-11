@@ -2,7 +2,8 @@
 I'm Back-end Developer 'Taeha Kim'👨‍💻
 
 ### I’m currently learning🌱 ...
-- Django REST Framework 
+- Django
+- Flask
 - MySQL
 - DataStructure
 
